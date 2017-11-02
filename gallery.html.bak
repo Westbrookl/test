@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <title>Document</title>
+  <script type="text/javascript"src="scripts/showPic.js"></script>
+ </head>
+ <body>
+ <h1>Snapshots</h1>
+ <ul id="imagegallery">
+	<li>
+		<a href="images/fireworks.jpg"title="this is a fireworks display">
+			<img src="images/fireworks.jpg" alt="fireworks"/>
+		</a>
+	</li>
+	<li>
+		<a href="images/coffee.jpg"title="this is a cup of coffee">Coffee</a>
+	</li>
+	<li>
+		<a href="images/rose.jpg"title="Red Red rose">Rose</a>
+	</li>
+	<li>
+		<a href="images/bigben.jpg"title="big ben in London">Big ben</a>
+	</li>
+ </ul>
+<img id="placeholder"src="images/placeholder.gif" />
+<p id="description">Choose an image</p>
+ </body>
+</html>
